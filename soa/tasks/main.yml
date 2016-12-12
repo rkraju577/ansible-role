@@ -1,0 +1,4 @@
+---
+# tasks file for soa
+- name: adding soa
+  command: ls -l
